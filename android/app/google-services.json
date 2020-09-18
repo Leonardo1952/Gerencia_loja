@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1071005259109",
+    "firebase_url": "https://lojadoleo-5cdcc.firebaseio.com",
+    "project_id": "lojadoleo-5cdcc",
+    "storage_bucket": "lojadoleo-5cdcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071005259109:android:89f04a3249e1ed281e3d8c",
+        "android_client_info": {
+          "package_name": "com.oliveira.gerencia_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071005259109-q5lhbih86umb5fcs5nd8imp8dgiovelk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrwJq2Z-kXC1UrvBs2o1-53kSLcJEhFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071005259109-q5lhbih86umb5fcs5nd8imp8dgiovelk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071005259109:android:a0ddb3b086485db31e3d8c",
+        "android_client_info": {
+          "package_name": "com.oliveira.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071005259109-q5lhbih86umb5fcs5nd8imp8dgiovelk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrwJq2Z-kXC1UrvBs2o1-53kSLcJEhFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071005259109-q5lhbih86umb5fcs5nd8imp8dgiovelk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
